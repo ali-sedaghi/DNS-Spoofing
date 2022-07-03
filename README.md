@@ -73,6 +73,12 @@ def callback(packet):
 
 دی ان اس واقعی:
 
+![real-dns](real-dns.png)
+
 دی ان اس فیک بعد از اجرای اسکریپت:
 
+![fake-dns](fake-dns.png)
+
 خروجی اسکریپت:
+
+![script-output](script-output.png)
