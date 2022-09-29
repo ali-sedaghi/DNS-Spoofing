@@ -1,4 +1,4 @@
-# Dns Spoof
+# DNS Spoofing
 
 
 
