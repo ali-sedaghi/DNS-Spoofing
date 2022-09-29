@@ -1,5 +1,6 @@
 # DNS Spoofing
 
+A simple DNS spoofing with NetfilterQueue and iptables
 
 
 ## نصب ابزار مورد نیاز
